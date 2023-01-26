@@ -1,2 +1,2 @@
 # CIOD-IM
-MATLAB simulations of **Index Modulation Based Coordinate Interleaved Orthogonal Design for Secure Communications** paper
+MATLAB simulations of the paper **Index Modulation Based Coordinate Interleaved Orthogonal Design for Secure Communications**.
